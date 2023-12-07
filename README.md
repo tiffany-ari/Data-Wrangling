@@ -1,24 +1,9 @@
 # Intro to Data Wrangling
 This project is part of the Udacity Data Analyst Nanodegree program.
 
-Project 2: Wrangle-and-Analyze-Data
+#Project 2: Wrangle-and-Analyze-Data - Udacity Data Analyst Nanodegree
 
-Udacity logo
-Udacity Data Analyst Nanodegree
-
-Table of contents
-
-    Introduction
-    Project Details
-    Gathering Data for this Project
-    Assessing Data for this Project
-    Cleaning Data for this Project
-    Storing, Analyzing and Visualizing Data for this Project
-    Installation
-    Requirements
-    Author
-
-Introduction
+##Introduction
 
 Real-world data rarely comes clean. Using Python and its libraries, In this project we will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness.
 
